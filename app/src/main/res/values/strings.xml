@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">FolderMe</string>
+    <string name="internal_storage">Penyimpanan Internal</string>
+    <string name="sd_card_saf">Penyimpanan Eksternal (SAF)</string>
+    <string name="app_files">Berkas Aplikasi</string>
+    <string name="create_folder">Folder Baru</string>
+    <string name="create_file">File Teks Baru</string>
+    <string name="rename">Ganti Nama</string>
+    <string name="delete">Hapus</string>
+    <string name="copy">Salin</string>
+    <string name="move">Pindahkan</string>
+    <string name="paste">Tempel di Sini</string>
+    <string name="compress_zip">Kompres ke ZIP</string>
+    <string name="extract_zip">Ekstrak ZIP</string>
+    <string name="view_zip">Pratinjau ZIP</string>
+    <string name="share">Bagikan</string>
+    <string name="edit_content">Edit Berkas</string>
+    <string name="file_details">Detail Berkas</string>
+    <string name="confirm_delete">Yakin ingin menghapus item ini secara permanen?</string>
+    <string name="search_hint">Cari berkas atau folder...</string>
+</resources>

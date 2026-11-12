@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Emerald Green Brand Colors -->
+    <color name="primary_emerald">#00796B</color>
+    <color name="primary_dark_emerald">#004D40</color>
+    <color name="accent_emerald">#26A69A</color>
+    <color name="emerald_light">#E0F2F1</color>
+
+    <color name="folder_icon">#26A69A</color>
+    <color name="zip_icon">#FFA000</color>
+    <color name="file_icon">#42A5F5</color>
+    <color name="danger_red">#E53935</color>
+
+    <!-- Light Theme Surface -->
+    <color name="background_light">#F4FBF8</color>
+    <color name="surface_light">#FFFFFF</color>
+    <color name="card_stroke_light">#CFD8DC</color>
+    <color name="text_primary_light">#1A2824</color>
+    <color name="text_secondary_light">#546E7A</color>
+
+    <!-- Dark Theme Surface -->
+    <color name="background_dark">#0F1715</color>
+    <color name="surface_dark">#172421</color>
+    <color name="card_stroke_dark">#2B3D38</color>
+    <color name="text_primary_dark">#E0F2F1</color>
+    <color name="text_secondary_dark">#80CBC4</color>
+</resources>

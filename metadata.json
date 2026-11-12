@@ -1,0 +1,6 @@
+{
+  "name": "FolderMe",
+  "description": "Berkas & Folder Manager modern dengan operasi CRUD, kompresi & pratinjau ZIP, teks editor, dan dukungan SAF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
